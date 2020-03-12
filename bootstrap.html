@@ -5,21 +5,92 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="custom.css">
+    <link rel="stylesheet" href="css/custom.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-
-<div class="container-fluid">
-    <div class="btn-info btn-info-lg">
-        <button type="button" class="btn btn-info">Home</button>
-        <button type="button" class="btn btn-info">About Us</button>
-        <button type="button" class="btn btn-info">Our Services</button>
-        <button type="button" class="btn btn-info">Book Online</button>
-        <button type="button" class="btn btn-info">Contact Us</button>
-    </div>
+<div class="jumbotron">
+        <div class="container-fluid">
+            <div class="btn-info btn-info-lg justify-content-center">
+                <a href="#" id="logo" class="navbar-brand">City Beauty <br> & Spa</a>
+                <a href="#"><button type="button" class="btn btn-info">Home</button></a>
+                <a href="aboutUs"><button type="button" class="btn btn-info">About Us</button></a>
+                <a href="ourServices"><button type="button" class="btn btn-info">Our Services</button></a>
+                <a href="bookOnline"><button type="button" class="btn btn-info">Book Online</button></a>
+                <a href="contactUs"><button type="button" class="btn btn-info">Contact Us</button></a>
+            </div>
+        </div>
 </div>
+        <!--<div class="navbar navbar-expand-sm bg-info justify-content-center">-->
+            <!--<a href="#" class="navbar-brand">-->
+                <!--<img src="" alt="Beauty Palour" style="width: 40px">-->
+            <!--</a>-->
+        <!--</div>-->
+        </div>
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <ul class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+            <li data-target="#myCarousel" data-slide-to="4"></li>
+            <li data-target="#myCarousel" data-slide-to="5"></li>
+            <li data-target="#myCarousel" data-slide-to="6"></li>
+        </ul>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="images\salon.jpg" alt="First Slide" width="1100" height="400">
+                <div class="carousel-caption">
+                    <h3>Welcome to Nairobi Beauty Palour</h3>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <img src="images\baberShop.jpg" alt="Second Slide" width="1100" height="400">
+                <div class="carousel-caption">
+                    <h3>Welcome to our Baber Service</h3>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <img src="images\salon2.jpg" alt="Third Slide" width="1100" height="400">
+                <div class="carousel-caption">
+                    <h3>We engage our customers</h3>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <img src="images\manicure2.jpg" alt="Fourth Slide" width="1100" height="400">
+                <div class="carousel-caption">
+                    <h3>We do manicure</h3>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <img src="images\nails.jpg" alt="Fifth Slide" width="1100" height="400">
+                <div class="carousel-caption">
+                    <h3>We do both manicure and pedicure</h3>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <img src="images\pedicure.jpg" alt="Sixth Slide" width="1100" height="400">
+                <div class="carousel-caption">
+                    <h3>Our services are offered by both genders</h3>
+                </div>
+            </div>
+        </div>
+
+        <a class="carousel-control-prev" data-slide="prev" href="#myCarousel">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+
+        <a class="carousel-control-next" data-slide="next" href="#myCarousel">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+
+    </div>
 </body>
 </html>

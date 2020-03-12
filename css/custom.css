@@ -1,0 +1,30 @@
+body{
+    margin: 20px 200px 20px 200px;
+    background-color: aliceblue;
+    color: black;
+}
+.jumbotron{
+background-color: cadetblue;
+    text-align: justify-all;
+}
+*{
+    color: black;
+    font-family: Garamond;
+}
+#logo{
+    color: black;
+    font-family: cursive;
+    font-style: revert;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 50%;
+}
+.carousel-caption{
+    color: crimson;
+    caption-side: bottom;
+}
+caption{
+    text-align: left;
+    caption-side: bottom;
+}
