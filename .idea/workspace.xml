@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3aabe64-6c14-47ed-8e3d-a13181e6b19e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/baberShop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/combs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lush_beauty_parlour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/manicure.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/manicure1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/manipedi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nails.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pedicure.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/salon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/salon1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/salon2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/washing.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PYTHON/intro/fileOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PYTHON/intro/fileOne.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PYTHON/intro/fileThree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PYTHON/intro/fileThree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PYTHON/intro/fileTwo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PYTHON/intro/fileTwo.py" afterDir="false" />
@@ -57,16 +40,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bootstrap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="764">
-              <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+            <state relative-caret-position="543">
+              <caret line="78" column="89" selection-start-line="78" selection-start-column="89" selection-end-line="78" selection-end-column="89" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
@@ -165,19 +148,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584040661783</updated>
-      <workItem from="1584040663934" duration="11419000" />
+      <workItem from="1584040663934" duration="11669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11419000" />
+    <option name="totallyTimeSpent" value="11669000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -208,17 +191,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="78" column="89" selection-start-line="78" selection-start-column="89" selection-end-line="78" selection-end-column="89" />
         </state>
       </provider>
     </entry>

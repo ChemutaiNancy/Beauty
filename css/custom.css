@@ -28,3 +28,6 @@ caption{
     text-align: left;
     caption-side: bottom;
 }
+.container-fluid{
+    margin-bottom: 10px;
+}
