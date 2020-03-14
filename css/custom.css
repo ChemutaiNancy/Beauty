@@ -1,11 +1,11 @@
 body{
-    margin: 20px 200px 20px 200px;
     background-color: aliceblue;
     color: black;
+    margin: 5px 100px 20px 100px;
 }
 .jumbotron{
-background-color: cadetblue;
-    text-align: justify-all;
+    background-color: cadetblue;
+    width: 100%;
 }
 *{
     color: black;
@@ -15,6 +15,7 @@ background-color: cadetblue;
     color: black;
     font-family: cursive;
     font-style: revert;
+    text-align: left;
 }
 .carousel-inner img{
     width: 100%;
@@ -30,4 +31,49 @@ caption{
 }
 .container-fluid{
     margin-bottom: 10px;
+}
+#myCarousel{
+    margin: 5px 100px 20px 100px;
+}
+.card{
+    height: 18rem;
+}
+footer{
+    text-align: center;
+}
+/*.row{*/
+/*    background-color: cadetblue;*/
+/*    width: auto;*/
+/*}*/
+/*.footer-wrapper{*/
+/*    width:-moz-fit-content;*/
+/*    background-color: cadetblue;*/
+/*}*/
+h3 {
+    position:relative;
+    text-align:center;
+}
+
+h3 span {
+    display:inline-block;
+    padding:0 10px;
+    background:aliceblue;
+}
+h3:before {
+    content:"";
+    display:block;
+    position:absolute;
+    z-index:-1;
+    left:0;
+    right:0;
+    top:50%;
+    height:1px;
+    border-bottom: 1px solid black;
+}
+.floatLeft{
+    float: left;
+    margin-right: 30px;
+}
+h2{
+    text-transform: uppercase;
 }
